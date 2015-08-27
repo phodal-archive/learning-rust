@@ -5,3 +5,6 @@ examples/*/main
 rustful-test
 target
 Cargo.lock
+**/target
+**/Cargo.lock
+
