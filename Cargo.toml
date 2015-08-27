@@ -1,0 +1,7 @@
+[package]
+name = "Learning_Cargo"
+version = "0.0.1"
+authors = [ "Phodal<h@phodal.com>" ]
+
+[dependencies]
+rustful = "0.4"
